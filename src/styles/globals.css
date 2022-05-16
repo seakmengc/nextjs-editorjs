@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.full-w img {
+  max-width: 100%;
+}
